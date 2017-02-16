@@ -1,6 +1,6 @@
 {
-  "name": "styledown",
-  "description": "Markdown-based styleguide generator",
+  "name": "styledown-multi",
+  "description": "a fork of https://github.com/styledown/styledown, support multi example in one area",
   "keywords": [
     "markdown",
     "css",
@@ -10,7 +10,7 @@
   "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/styledown/styledown.git"
+    "url": "https://github.com/delai/styledown-multi.git"
   },
   "main": "index",
   "scripts": {
